@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="sim library">
+      <UniqueIdentifier>{9fbc6a3e-99a6-4820-af24-a83498af6506}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sim library\Header Files">
+      <UniqueIdentifier>{692d8f7a-7cc0-4924-bdaa-990c3d28d194}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sim library\C Files">
+      <UniqueIdentifier>{1a134c57-c6ce-44fc-baa8-0eb6e0b5276d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header FIles">
+      <UniqueIdentifier>{124fd7e8-a8f7-43db-96b8-74e3b211ddf6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{8a4f2c74-453b-4513-a4e5-f544fab0141c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\sim-2.1\include\sim\analysis.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\clock.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\conditionallist.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\control.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\converter.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\coutanalysis.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\defs.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\entity.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\error.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\event.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\generator.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\handlers.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\histogram.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\hush.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\query.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\queue.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\reports.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\resource.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\scheduler.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\screen.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\sim.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\simevent.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\simulation.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\tertiarytree.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\sim-2.1\include\sim\version.h">
+      <Filter>sim library\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\sim-2.1\src\analysis.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\clock.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\colist.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\control.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\coutanal.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\entity.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\error.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\generate.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\handlers.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\histo.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\old-queue.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\query.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\queue.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\reports.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\resource.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\schedule.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\screen.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\simevent.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\simul.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\sim-2.1\src\tytree.c">
+      <Filter>sim library\C Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
