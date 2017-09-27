@@ -17,8 +17,8 @@
 #undef NOSIM
 #endif
 
-#include <sim/hush.h>
-#include <sim/widgets.h>
+#include <hush/hush.h>
+#include <widgets/widgets.h>
 
 #else // ASCII definitions, functionality = 0
 

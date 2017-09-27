@@ -14,7 +14,7 @@
 #define __SIMULATION_H
 
 #include <iostream>
-#include <time.h>
+#include <sys/time.h>
  
 typedef enum {NOLEFT,QUIT,END,COUNT,REALTIME} stoptype;
 enum {MAXREPORT = 100};

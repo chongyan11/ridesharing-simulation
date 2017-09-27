@@ -13,7 +13,7 @@
 #include <string.h>
 #include <stdio.h>
 #include <math.h>
-#include <iostream.h>
+#include <iostream>
 #include <sim/defs.h>
 #include <sim/coutanalysis.h>
 #include <sim/error.h>

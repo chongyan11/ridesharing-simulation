@@ -99,65 +99,79 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\sim-2.1\src\analysis.c">
+    <ClCompile Include="..\..\sim-2.1\src\analysis.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\clock.c">
+    <ClCompile Include="..\..\sim-2.1\src\clock.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\colist.c">
+    <ClCompile Include="..\..\sim-2.1\src\colist.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\control.c">
+    <ClCompile Include="..\..\sim-2.1\src\control.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\coutanal.c">
+    <ClCompile Include="..\..\sim-2.1\src\coutanal.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\entity.c">
+    <ClCompile Include="..\..\sim-2.1\src\entity.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\error.c">
+    <ClCompile Include="..\..\sim-2.1\src\error.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\generate.c">
+    <ClCompile Include="..\..\sim-2.1\src\generate.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\handlers.c">
+    <ClCompile Include="..\..\sim-2.1\src\handlers.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\histo.c">
+    <ClCompile Include="..\..\sim-2.1\src\histo.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\old-queue.c">
+    <ClCompile Include="..\..\sim-2.1\src\old-queue.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\query.c">
+    <ClCompile Include="..\..\sim-2.1\src\query.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\queue.c">
+    <ClCompile Include="..\..\sim-2.1\src\queue.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\reports.c">
+    <ClCompile Include="..\..\sim-2.1\src\reports.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\resource.c">
+    <ClCompile Include="..\..\sim-2.1\src\resource.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\schedule.c">
+    <ClCompile Include="..\..\sim-2.1\src\schedule.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\screen.c">
+    <ClCompile Include="..\..\sim-2.1\src\screen.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\simevent.c">
+    <ClCompile Include="..\..\sim-2.1\src\simevent.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\simul.c">
+    <ClCompile Include="..\..\sim-2.1\src\simul.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sim-2.1\src\tytree.c">
+    <ClCompile Include="..\..\sim-2.1\src\tytree.cpp">
       <Filter>sim library\C Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\sim-2.1\src\Makefile">
+      <Filter>sim library\C Files</Filter>
+    </None>
+    <None Include="..\..\sim-2.1\src\sim.mk">
+      <Filter>sim library\C Files</Filter>
+    </None>
+    <None Include="..\..\sim-2.1\include\sim\index">
+      <Filter>sim library\Header Files</Filter>
+    </None>
+    <None Include="..\..\sim-2.1\include\sim\makefile">
+      <Filter>sim library\Header Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

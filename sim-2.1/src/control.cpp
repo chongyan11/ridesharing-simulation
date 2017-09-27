@@ -21,7 +21,7 @@ extern kit* thekit();
 
 #else
 
-#include <iostream.h>
+#include <iostream>
 
 #endif
 

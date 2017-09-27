@@ -15,7 +15,7 @@
 //extern "C" int gettimeofday(...);
 
 #include <stdio.h>
-#include <iostream.h>
+#include <iostream>
 #include <stdlib.h>
 #include <string.h>
 #include <sys/time.h>

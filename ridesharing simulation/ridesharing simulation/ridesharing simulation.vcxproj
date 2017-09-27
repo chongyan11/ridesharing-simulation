@@ -46,26 +46,32 @@
     <ClInclude Include="..\..\sim-2.1\include\sim\version.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\sim-2.1\src\analysis.c" />
-    <ClCompile Include="..\..\sim-2.1\src\clock.c" />
-    <ClCompile Include="..\..\sim-2.1\src\colist.c" />
-    <ClCompile Include="..\..\sim-2.1\src\control.c" />
-    <ClCompile Include="..\..\sim-2.1\src\coutanal.c" />
-    <ClCompile Include="..\..\sim-2.1\src\entity.c" />
-    <ClCompile Include="..\..\sim-2.1\src\error.c" />
-    <ClCompile Include="..\..\sim-2.1\src\generate.c" />
-    <ClCompile Include="..\..\sim-2.1\src\handlers.c" />
-    <ClCompile Include="..\..\sim-2.1\src\histo.c" />
-    <ClCompile Include="..\..\sim-2.1\src\old-queue.c" />
-    <ClCompile Include="..\..\sim-2.1\src\query.c" />
-    <ClCompile Include="..\..\sim-2.1\src\queue.c" />
-    <ClCompile Include="..\..\sim-2.1\src\reports.c" />
-    <ClCompile Include="..\..\sim-2.1\src\resource.c" />
-    <ClCompile Include="..\..\sim-2.1\src\schedule.c" />
-    <ClCompile Include="..\..\sim-2.1\src\screen.c" />
-    <ClCompile Include="..\..\sim-2.1\src\simevent.c" />
-    <ClCompile Include="..\..\sim-2.1\src\simul.c" />
-    <ClCompile Include="..\..\sim-2.1\src\tytree.c" />
+    <ClCompile Include="..\..\sim-2.1\src\analysis.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\clock.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\colist.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\control.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\coutanal.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\entity.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\error.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\generate.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\handlers.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\histo.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\old-queue.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\query.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\queue.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\reports.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\resource.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\schedule.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\screen.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\simevent.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\simul.cpp" />
+    <ClCompile Include="..\..\sim-2.1\src\tytree.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\sim-2.1\include\sim\index" />
+    <None Include="..\..\sim-2.1\include\sim\makefile" />
+    <None Include="..\..\sim-2.1\src\Makefile" />
+    <None Include="..\..\sim-2.1\src\sim.mk" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

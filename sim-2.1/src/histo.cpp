@@ -14,8 +14,8 @@
 #include <stddef.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include <iostream.h>
-#include <fstream.h>
+#include <iostream>
+#include <fstream>
 #include <math.h>
 
 #include <sim/hush.h>

@@ -20,8 +20,8 @@
 #endif
  
 #include <stdio.h>
-#include <iostream.h>
-#include <iomanip.h>
+#include <iostream>
+#include <iomanip>
 #include <stddef.h>
 #include <stdlib.h>
 #include <string.h>
