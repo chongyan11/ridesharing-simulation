@@ -14,7 +14,7 @@
 
 #include <sim/event.h>
 #include <sim/histogram.h>
-#include <iostream.h>
+#include <iostream>
 
 
 class eventreport

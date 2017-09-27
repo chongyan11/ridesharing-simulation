@@ -15,7 +15,7 @@
 #ifndef __ANALYSIS_H
 #define __ANALYSIS_H
 
-#include <iostream.h>
+#include <iostream>
 
 class histogram;
 class widget;

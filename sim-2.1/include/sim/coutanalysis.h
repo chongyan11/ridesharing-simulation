@@ -13,7 +13,7 @@
 #ifndef __OUTPUTANALYSIS_H
 #define __OUTPUTANALYSIS_H
 
-#include <iostream.h>
+#include <iostream>
 
 class histogram;
 class analysis;

@@ -14,7 +14,7 @@
 #ifndef __QUEUE_H
 #define __QUEUE_H
 
-#include <iostream.h>
+#include <iostream>
 #include <sim/tertiarytree.h>
 #include <sim/simulation.h>
 #include <sim/histogram.h>

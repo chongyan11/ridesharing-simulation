@@ -14,7 +14,7 @@
 #include <math.h>
 #include <string.h>
 #include <stdlib.h>
-#include <fstream.h>
+#include <fstream>
 #include <sim/defs.h>
 #include <sim/error.h>
 #include <sim/histogram.h>

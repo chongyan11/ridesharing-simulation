@@ -13,8 +13,8 @@
 #ifndef __HISTOGRAM_H
 #define __HISTOGRAM_H
 
-#include <iostream.h>
-#include <fstream.h>
+#include <iostream>
+#include <fstream>
 #include <stdio.h>
 
 class simulation;
