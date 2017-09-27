@@ -22,13 +22,14 @@ extern kit* thekit();
 
 #else
 
-#include <iostream.h>
+#include <iostream>
 
 #endif
 
 #include <sim/query.h>
 #include <sim/converter.h>
 
+using namespace std;
 
 // pop up a input query with the given options, the create method
 // parses the options and suites them for the screen

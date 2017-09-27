@@ -16,7 +16,7 @@
 #include <iostream>
 #include <fstream>
 #include <stdio.h>
-
+using namespace std;
 class simulation;
 
 #include <sim/screen.h>

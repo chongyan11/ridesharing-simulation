@@ -13,7 +13,7 @@
 
 
 #include <stdio.h>
-#include <iostream.h>
+#include <iostream>
 #include <sim/defs.h>
 #include <sim/error.h>
 #include <sim/event.h>
